@@ -1,0 +1,102 @@
+{
+  "users": {
+    "sreezone21@gmail.com": {
+      "username": "g",
+      "email": "sreezone21@gmail.com",
+      "first_seen": "2025-06-15T14:36:43.538663",
+      "last_seen": "2025-06-15T14:36:43.538676"
+    }
+  },
+  "sessions": [
+    {
+      "timestamp": "2025-06-15T14:36:43.540714",
+      "username": "g",
+      "email": "sreezone21@gmail.com",
+      "activity": "User logged in"
+    },
+    {
+      "timestamp": "2025-06-15T14:37:51.801084",
+      "username": "Gouri",
+      "email": "sreezone21@gmail.com",
+      "activity": "User logged in"
+    },
+    {
+      "timestamp": "2025-06-15T14:42:04.130581",
+      "username": "gouri",
+      "email": "sreezone21@gmail.com",
+      "activity": "User logged in"
+    },
+    {
+      "timestamp": "2025-06-15T14:42:48.949163",
+      "username": "gouri",
+      "email": "sreezone21@gmail.com",
+      "activity": "Started therapy session"
+    },
+    {
+      "timestamp": "2025-06-15T14:42:48.964385",
+      "username": "gouri",
+      "email": "sreezone21@gmail.com",
+      "activity": "Text input provided: I feel really sad today. How do /i identify the ro..."
+    },
+    {
+      "timestamp": "2025-06-15T14:42:50.798220",
+      "username": "gouri",
+      "email": "sreezone21@gmail.com",
+      "activity": "Therapist response generated: I'm so glad you reached out for support. It takes ..."
+    },
+    {
+      "timestamp": "2025-06-15T15:40:48.189252",
+      "username": "g",
+      "email": "email",
+      "activity": "User logged in"
+    },
+    {
+      "timestamp": "2025-06-15T16:02:29.203048",
+      "username": "Gouri",
+      "email": "email",
+      "activity": "User logged in"
+    },
+    {
+      "timestamp": "2025-06-15T16:04:35.496413",
+      "username": "Gouri",
+      "email": "email",
+      "activity": "Started therapy session"
+    },
+    {
+      "timestamp": "2025-06-15T16:04:35.520634",
+      "username": "Gouri",
+      "email": "email",
+      "activity": "Text input provided: I feel really sad and I want to understand the roo..."
+    },
+    {
+      "timestamp": "2025-06-15T16:04:37.686685",
+      "username": "Gouri",
+      "email": "email",
+      "activity": "Therapist response generated: I'm so glad you're reaching out to explore these f..."
+    },
+    {
+      "timestamp": "2025-06-15T16:21:14.739367",
+      "username": "g",
+      "email": "e",
+      "activity": "User logged in"
+    },
+    {
+      "timestamp": "2025-06-15T16:21:24.849459",
+      "username": "g",
+      "email": "e",
+      "activity": "Started therapy session"
+    },
+    {
+      "timestamp": "2025-06-15T16:21:24.871677",
+      "username": "g",
+      "email": "e",
+      "activity": "Text input provided: I am feeling sad today..."
+    },
+    {
+      "timestamp": "2025-06-15T16:21:26.530803",
+      "username": "g",
+      "email": "e",
+      "activity": "Therapist response generated: I'm so glad you reached out and shared that with m..."
+    }
+  ]
+}
